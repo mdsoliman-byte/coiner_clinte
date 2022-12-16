@@ -3,7 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+:root {
+  --color-131921 : 
+}
 body {
   font-family: "Rubik", sans-serif;
 }
