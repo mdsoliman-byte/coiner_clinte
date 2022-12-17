@@ -1,0 +1,40 @@
+.header_bottom{
+    background-color: var(--color-232f3e);
+}
+.nav-link{
+    margin-left: 10px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px ;
+    letter-spacing: 1px;
+}
+.gap-30{
+    gap: 30px;
+}
+.gap-20{
+    gap: 20px;
+}
+.header_bottom .dropdown button{
+    color: white;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400;
+    letter-spacing: 0.3;
+    text-transform: uppercase;
+}
+.header_bottom .dropdown button:focus{
+    box-shadow: none;
+}
+/* .header_bottom .dropdown button::before{
+    content: url("../../images//menu.svg");
+} */
+.header_bottom .dropdown .dropdown-menu a{
+    background-color: var(--color-232f3e);
+    width: 100%;
+    color: white;
+}
+.header_bottom .dropdown .dropdown-menu a:hover{
+    color: var(--color-3b4149);
+    color: wheat;
+   
+}
