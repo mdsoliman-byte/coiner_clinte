@@ -1,0 +1,18 @@
+.header-upper {
+  background-color: var(--color-3b4149);
+}
+
+.header-upper .input-group .input-group-text {
+  background-color: var(--color-febd69);
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.header-upper .upper_header_link img {
+  height: 35px;
+  width: 35px;
+}
+.ig_icon {
+  gap: 10px;
+  
+}
