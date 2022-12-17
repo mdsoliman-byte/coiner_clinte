@@ -24,22 +24,22 @@ const UpperHeader = () => {
                     </div>
                     <div className="col-5">
                         <div className="upper_header_link d-flex align-items-center justify-content-between">
-                            <div >
+                            <div  >
                                 <Link className='d-flex align-items-center text-white ig_icon'>
                                     <img src={compare} alt="" />
-                                    <p>Compare <br /> Product</p>
+                                    <p className='mb-0'>Compare <br /> Product</p>
                                 </Link>
                             </div>
                             <div>
                                 <Link className='d-flex align-items-center text-white ig_icon'>
                                     <img src={wishlist} alt="" />
-                                    <p>Favourite <br /> Wishlist</p>
+                                    <p className='mb-0'>Favourite<br />Wishlist</p>
                                 </Link>
                             </div>
                             <div>
                                 <Link className='d-flex align-items-center text-white ig_icon'>
                                 <img src={userSvg} alt="" />
-                                    <p>Login <br /> My Account</p>
+                                    <p className='mb-0'>Login <br /> My Account</p>
                                 </Link>
                             </div>
                             <div>
