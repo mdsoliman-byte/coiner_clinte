@@ -1,0 +1,6 @@
+.header-top-strip {
+  height: 40px;
+  border-bottom: 1px solid var(--color-3b4149);
+  background-color: var(--color-131921);
+  text-align: center;
+}
